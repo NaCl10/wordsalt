@@ -25,9 +25,13 @@ params:
 
   # RSS is cool, but it puts this massive fucking subscribe button at the top of the page that's completely unnecessary and I can't be fucked to get rid of for now
   enableRSS: false
-  # Technically we do have comments, but they're hardcoded... stfu I swear I'm good at my job
-  enableComments: false
+  enableComments: true
   enableGoogleAnalytics: false
   # TODO: make sure we actually like TOCs
   showToc: true
 
+  # Comment stuff
+  utterances:
+    repo: wordsalt/wordsalt-comments
+    issueterm: pathname
+    theme: github-light
