@@ -8,7 +8,7 @@ on:
    - cron: "0 0 * * *"
  
   # Run manually from the Actions tab
-  workflow-dispatch:
+  workflow_dispatch:
 
 jobs:
   build:
