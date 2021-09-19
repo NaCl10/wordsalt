@@ -17,15 +17,5 @@
 etc.</description>
     </item>
     
-    <item>
-      <title>About Me</title>
-      <link>https://example.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/about/</guid>
-      <description>Hi. 🔗My name is Andrew—that&amp;rsquo;s a pen name. I&amp;rsquo;m a current high school student, a writer, a musician, and a cyclist. I also like to mess around with computers and programming on occasion.
-I&amp;rsquo;m in a unique position regarding school, and that&amp;rsquo;ll be one of the main topics of this blog. I went to public school for kindergarten, but for a number of reasons which I&amp;rsquo;ll talk about in a later article, my mom decided to pull me out of public school.</description>
-    </item>
-    
   </channel>
 </rss>
