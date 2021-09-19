@@ -1,0 +1,22 @@
+name: build
+
+on:
+  # Run on tag/branch creation
+  create:
+  
+  schedule:
+   - cron: "0 0 * * *"
+ 
+  # Run manually from the Actions tab
+  workflow-dispatch:
+
+jobs:
+  build:
+    runs-on: ubunt-latest
+    steps:
+     - name: checkout
+       uses: actions/checkout@master
+       with:
+         submodules: true
+     - name: build
+       uses: jakejarvis/hugo-build-action@master
