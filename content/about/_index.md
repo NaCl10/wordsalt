@@ -20,4 +20,10 @@ I'm a reader. I always have been. After I spent years of my early life reading, 
 Personally, I've recently taken to academic and argumentative writing, which is one of the main reasons I started this blog: to practice argumentative writing. I've tried plenty of other forms, and while I've enjoyed many if not most of them, argumentative writing has been my favorite—at least as of late.
 
 ## Music
+I've been surrounded by music practically since birth. My parents both love music, so it was nearly always playing at home or any time we got in the car. However, there was a turning point when I was around 9 or 10: I got my own iPod. I started listening to more and more music, making my own playlists, finding artists that I liked, and so on. 
 
+For years, I begged my parents to let me start learning an instrument. Originally, I was planning on starting out on piano and moving to guitar, because that's what my parents said I had to do. But, one early christmas morning, when I was 11 years old, I woke up to a red Fender Squier Mini–a gift from my grandfather. A couple of months later, I started taking lessons. I was lucky to find an incredible teacher from the very start, who is actually the teacher I still do liessons with to this day.
+
+A couple of years later, in the summer of my seventh grade year, a friend of mine who plays drums, along with my brother, who played bass, decided to start a band together. Members have come and gone, my brother quit playing bass altogether a year or so ago, but we all think we finally have a good group. We've been together for three years now, practicing, playing smaller gigs and open mics, writing, and making demos; and we're hoping to be able to release our first album soon.
+
+I'm not going to put the link to the band here for my anonymity's sake.
