@@ -37,3 +37,5 @@ I'm not going to put the link to the band here for my anonymity's sake.
 ## Cycling
 
 I love to ride my bike. I could spend hours every day on a bike, but unfortunately, school prevents that. I also do many different styles of bike racing, including Cyclocross, BMX, grass track (AKA grass velodrome), and road. I also casually mountain bike. My favorite by far is definitely cyclocross.
+
+## Computers and programming
