@@ -30,6 +30,8 @@ params:
   # TODO: make sure we actually like TOCs
   showToc: true
 
+  copyright: 'Unless noted otherwise, the content of this site is by Andrew Smith and licensed under a CC BY-NC-SA 4.0 license.'
+
   # Comment stuff
   utterances:
     repo: wordsalt/wordsalt-comments
