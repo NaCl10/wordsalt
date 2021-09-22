@@ -8,7 +8,7 @@ enableToc: true
 
 # Hi. 
 
-My name is Andrew—that's a pen name. I'm a [current high school student](#school), a [writer](#writing), a [musician](#music), and a cyclist. I also like to mess around with computers and programming on occasion.
+My name is Andrew—that's a pen name. I'm a [current high school student](#school), a [writer](#writing), a [musician](#music), and a [cyclist](#cycling). I also like to mess around with computers and programming on occasion.
 
 ## School
 
@@ -33,3 +33,7 @@ For years, I begged my parents to let me start learning an instrument. Originall
 A couple of years later, in the summer of my seventh grade year, a friend of mine who plays drums, along with my brother, who played bass, decided to start a band together. Members have come and gone, my brother quit playing bass altogether a year or so ago, but we all think we finally have a good group. We've been together for three years now, practicing, playing smaller gigs and open mics, writing, and making demos; and we're hoping to be able to release our first album soon.
 
 I'm not going to put the link to the band here for my anonymity's sake.
+
+## Cycling
+
+I love to ride my bike. I could spend hours every day on a bike, but unfortunately, school prevents that. I also do many different styles of bike racing, including Cyclocross, BMX, grass track (AKA grass velodrome), and road. I also casually mountain bike. My favorite by far is definitely cyclocross.
