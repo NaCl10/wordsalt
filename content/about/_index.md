@@ -8,7 +8,7 @@ enableToc: true
 
 # Hi. 
 
-My name is Andrew—that's a pen name. I'm a [current high school student](#school), a [writer](#writing), a [musician](#music), and a [cyclist](#cycling). I also like to mess around with computers and programming on occasion.
+My name is Andrew—that's a pen name. I'm a [current high school student](#school), a [writer](#writing), a [musician](#music), and a [cyclist](#cycling). I also like to mess around with [computers and programming](#computers-and-programming) on occasion.
 
 ## School
 
@@ -39,3 +39,6 @@ I'm not going to put the link to the band here for my anonymity's sake.
 I love to ride my bike. I could spend hours every day on a bike, but unfortunately, school prevents that. I also do many different styles of bike racing, including Cyclocross, BMX, grass track (AKA grass velodrome), and road. I also casually mountain bike. My favorite by far is definitely cyclocross.
 
 ## Computers and programming
+
+I'm a massive nerd, about all sorts of things. I legitimately enjoy technical writing and nerding out about grammar and citations (to a certain extent, of course). I have considered creating a tool to allow you to fork playlists and create filters so that if you add a song to one playlist, it automatically gets added to another one. I write this blog... which y'all will discover might be one of the nerdiest places on earth. But the thing I'm the nerdiest about is definitely computers—by a wide margin. I use Arch Linux  <!--TODO: add something to indicate where this link goes for accessibility--> ([btw](https://reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/)), and my system is set up almost completely custom. I use KDE with polybar and no DM, for anyone who cares or knows what any of that means. I enjoy various different system administration tasks, as well as programming. Most of the cool stuff I've done can be found on [my GitHub](https://github.com/nacl10).
+
