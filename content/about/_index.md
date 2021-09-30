@@ -44,3 +44,7 @@ I love to ride my bike. I could spend hours every day on a bike, but unfortunate
 
 I'm a massive nerd, about all sorts of things. I legitimately enjoy technical writing and nerding out about grammar and citations (to a certain extent, of course). I have considered creating a tool to allow you to fork playlists and create filters so that if you add a song to one playlist, it automatically gets added to another one. I write this blog... which y'all will discover might be one of the nerdiest places on earth. But the thing I'm the nerdiest about is definitely computers—by a wide margin. I use Arch Linux ([btw](https://reddit.com/r/linuxmemes/comments/9xgfxq/why_i_use_arch_btw/ 'An explanation of "i use arch btw" (Reddit)')), and my system is set up almost completely custom. I enjoy various different system administration tasks, as well as programming. Most of the cool stuff I've done can be found on [my GitHub](https://github.com/nacl10).
 
+## Conclusion
+
+I believe I have a unique experience with education, and therefore a unique perspective. I hope to use this perspective and my writing to fight for a better education system in the United States and across the world.
+
