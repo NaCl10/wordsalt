@@ -18,7 +18,7 @@ I am fairly certain that I kicked the pedophile in the nuts, which I'm unreasona
 
 Finally, in the summer after my eighth grade year, my parents got divorced. That's a complicated situation which I might talk more about in a later post–or I might not. I'm not sure. Anyway, my mom was always our teacher and in charge of homeschool, and for one reason or another, my dad decided he didn't like homeschool. I don't know much beyond that, other than that **I'm now in public school**.
 
-This leads me to my position on school and education in general: I am a strong proponent of Self-Directed Education, or SDE. In short, SDE is exactly what it sounds like–students directing their own learning. Not teaching themselves, but deciding what they are taught and how they are taught it. (For those of you who know about some alternative education systems, Sudsbury falls under SDE. Montessori and Waldorf do not.) SDE will be one of the main topics of this blog, so there *will* be plenty more to hear about it.
+This leads me to my position on school and education in general: I am a strong proponent of Self-Directed Education, or SDE. In short, SDE is exactly what it sounds like–students directing their own learning. Not teaching themselves, but deciding what they are taught and how they are taught it. (For those of you who know about some alternative education systems, Sudbury falls under SDE. Montessori and Waldorf do not.) SDE will be one of the main topics of this blog, so there *will* be plenty more to hear about it.
 
 ## Writing
 
