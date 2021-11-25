@@ -1,8 +1,10 @@
 name: build
 
 on:
-  # Run on tag/branch creation
-  create:
+  # Run on push to main
+  push:
+    branches:
+    - main
   
   schedule:
    - cron: "0 0 * * *"
