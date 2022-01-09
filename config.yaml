@@ -5,6 +5,9 @@ theme: mini
 
 defaultContentLanguage: en
 
+taxonomies:
+  tag: tags
+
 markup:    
   highlight:    
     guessSyntax: true    
