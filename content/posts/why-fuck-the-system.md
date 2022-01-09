@@ -74,6 +74,8 @@ I am cynical of the current state of the world and the United States, *primarily
 
 I wish the world wasn't so fucking broken, but that only gives me motivation to try and fix it. Will you try with me?
 
+##### Comments are below citations.
+
 [^1]: Baker, John. “Industrial Age Education Is a Disservice to Students.”  Huffpost.com, March 28, 2013.  https://www.huffpost.com/entry/industrial-age-education-_b_2974297.
 [^2]: Kurtzleben, Danielle. “House Passes The Equality Act: Here’s What It Would Do.” Npr.org, February 24, 2021.  https://www.npr.org/2021/02/24/969591569/house-to-vote-on-equality-act-heres-what-the-law-would-do.
 [^3]: Congress.gov. Accessed November 6, 2021. https://www.congress.gov/bill/117th-congress/house-bill/5.
