@@ -1,7 +1,7 @@
 ---
 title: 'Why "Fuck the System?"'
 date: 2021-11-05T15:11:45-05:00
-draft: true
+draft: false
 tags:
  - politics
  - education
