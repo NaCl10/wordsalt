@@ -2,6 +2,10 @@
 title: 'Why "Fuck the System?"'
 date: 2021-11-05T15:11:45-05:00
 draft: true
+tags:
+ - politics
+ - education
+ - transport
 ---
 
 The motto of this blog is "Fuck the system." Why? Because, frankly, I'm an extremely cynical person. Then again, who wouldn't be in a world that's burning around them? In this article, I'll explain most of the issues I have with the world as a whole, why we live in a predystopian society, and why we will soon witness systemic collapse.
