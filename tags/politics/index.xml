@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wordsalt</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Wordsalt</description>
+    <title>politics on Wordsalt</title>
+    <link>https://example.com/tags/politics/</link>
+    <description>Recent content in politics on Wordsalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Nov 2021 15:11:45 -0500</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Nov 2021 15:11:45 -0500</lastBuildDate><atom:link href="https://example.com/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why &#34;Fuck the System?&#34;</title>
       <link>https://example.com/posts/why-fuck-the-system/</link>
