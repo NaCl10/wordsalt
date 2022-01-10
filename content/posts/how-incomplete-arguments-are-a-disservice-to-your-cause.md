@@ -1,7 +1,7 @@
 ---
 title: "How Incomplete Arguments Are a Disservice to Your Cause"
 date: 2022-01-09
-draft: true
+draft: false
 ---
 
 Bernie Sanders recently posted a tweet. It read:
