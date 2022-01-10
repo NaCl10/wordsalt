@@ -1,6 +1,6 @@
 ---
 title: 'Why "Fuck the System?"'
-date: 2021-11-05T15:11:45-05:00
+date: 2022-01-08
 draft: false
 tags:
  - politics
@@ -40,7 +40,7 @@ As an overarching theme to all of this, systemic racism remains omnipresent in t
 
 #### Systemic Inequality
 
-Since even before the founding of the United States, people of color have been oppressed and forced into a lower economic status than white people—*they were literally slaves*. This was then built upon by segregation and Jim Crow laws—which, believe it or not, *only ended just 40 short years ago*.[^6] That racist legislation's effect has lasted well into today, and people of color continue to live in extreme inequality as compared to whites. According to the U.S. Census Bureau, in 2019, the poverty rate for Blacks was 18.8% and the poverty rate for Hispanics was 15.7%—both of these being an all-time low. Compared to whites' fairly consistent poverty rate of around 7% (7.3% in 2019), this seems unreasonably high.[^7]
+Since even before the founding of the United States, people of color have been oppressed and forced into a lower economic status than white people—*they were literally slaves*. This was then built upon by segregation and Jim Crow laws—which, believe it or not, *only ended just 60 short years ago*.[^6] That racist legislation's effect has lasted well into today, and people of color continue to live in extreme inequality as compared to whites. According to the U.S. Census Bureau, in 2019, the poverty rate for Blacks was 18.8% and the poverty rate for Hispanics was 15.7%—both of these being an all-time low. Compared to whites' fairly consistent poverty rate of around 7% (7.3% in 2019), this seems unreasonably high.[^7]
 
 #### White Supremacy
 
