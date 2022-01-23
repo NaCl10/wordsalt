@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/how-incomplete-arguments-are-a-disservice-to-your-cause/</loc>
-    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <loc>https://example.com/posts/i-dont-want-a-self-driving-car/</loc>
+    <lastmod>2022-01-17T22:22:08-06:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/</loc>
-    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-17T22:22:08-06:00</lastmod>
   </url><url>
     <loc>https://example.com/</loc>
+    <lastmod>2022-01-17T22:22:08-06:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/how-incomplete-arguments-are-a-disservice-to-your-cause/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/education/</loc>
