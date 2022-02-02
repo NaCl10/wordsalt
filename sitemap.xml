@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://example.com/tags/argumentation/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/posts/how-incomplete-arguments-are-a-disservice-to-your-cause/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/tags/politics/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/posts/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/</loc>
     <lastmod>2022-01-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/tags/writing/</loc>
+    <lastmod>2022-01-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/education/</loc>
-    <lastmod>2022-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/politics/</loc>
-    <lastmod>2022-01-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2022-01-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/transport/</loc>
