@@ -27,5 +27,7 @@ Basically, y'all need to learn some fuckin' respect for your elders.
 
 Of course, it's all a balance. Young people—especially teenagers like myself—are *also* frequently excluded from important societal dialogs because we're "too young." Ultimately, everyone's voice needs to be heard and respected, and everyone needs to be respected and realize we all have a whole lot we could learn from one another.
 
+##### Comments are below citations.
+
 [^1]: Can be found here: https://youtu.be/5MeQ9rA2Ifg
 [^2]: Science Fiction & Fantasy Stack Exchange. “How Old Is Yoda?” Accessed February 21, 2022. https://scifi.stackexchange.com/questions/127741/how-old-is-yoda.
