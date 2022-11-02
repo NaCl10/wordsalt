@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>writing on Wordsalt</title>
-    <link>https://example.com/tags/writing/</link>
+    <link>https://wordsalt.net/tags/writing/</link>
     <description>Recent content in writing on Wordsalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsalt.net/tags/writing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How Incomplete Arguments Are a Disservice to Your Cause</title>
-      <link>https://example.com/posts/how-incomplete-arguments-are-a-disservice-to-your-cause/</link>
+      <link>https://wordsalt.net/posts/how-incomplete-arguments-are-a-disservice-to-your-cause/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/how-incomplete-arguments-are-a-disservice-to-your-cause/</guid>
+      <guid>https://wordsalt.net/posts/how-incomplete-arguments-are-a-disservice-to-your-cause/</guid>
       <description>Bernie Sanders recently posted a tweet. It read:
 When we talk about income and wealth inequality in America today, this is what we&amp;rsquo;re talking about.
 Right now, the two wealthiest people own more wealth than the bottom 40%. Got that? TWO PEOPLE own more wealth than 40% of our people.

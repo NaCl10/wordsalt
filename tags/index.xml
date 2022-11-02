@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wordsalt</title>
-    <link>https://example.com/tags/</link>
+    <link>https://wordsalt.net/tags/</link>
     <description>Recent content in Tags on Wordsalt</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wordsalt.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>argumentation</title>
-      <link>https://example.com/tags/argumentation/</link>
+      <link>https://wordsalt.net/tags/argumentation/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/argumentation/</guid>
+      <guid>https://wordsalt.net/tags/argumentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>https://example.com/tags/music/</link>
+      <link>https://wordsalt.net/tags/music/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/music/</guid>
+      <guid>https://wordsalt.net/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>society</title>
-      <link>https://example.com/tags/society/</link>
+      <link>https://wordsalt.net/tags/society/</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/society/</guid>
+      <guid>https://wordsalt.net/tags/society/</guid>
       <description></description>
     </item>
     
     <item>
       <title>politics</title>
-      <link>https://example.com/tags/politics/</link>
+      <link>https://wordsalt.net/tags/politics/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/politics/</guid>
+      <guid>https://wordsalt.net/tags/politics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>https://example.com/tags/writing/</link>
+      <link>https://wordsalt.net/tags/writing/</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/writing/</guid>
+      <guid>https://wordsalt.net/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>education</title>
-      <link>https://example.com/tags/education/</link>
+      <link>https://wordsalt.net/tags/education/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/education/</guid>
+      <guid>https://wordsalt.net/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>transport</title>
-      <link>https://example.com/tags/transport/</link>
+      <link>https://wordsalt.net/tags/transport/</link>
       <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/transport/</guid>
+      <guid>https://wordsalt.net/tags/transport/</guid>
       <description></description>
     </item>
     
